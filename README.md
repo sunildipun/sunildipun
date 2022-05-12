@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/last_sunil_404" target="blank"><img src="https://img.shields.io/twitter/follow/last_sunil_404?logo=twitter&style=for-the-badge" alt="last_sunil_404" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** **Node** **Web3** **Blockchain**
+- 👨🏾‍💻 Working as Software Engineer at General Electric
+- 🤝 Looking to collaborate <a href="https://linkedin.com/in/sunilbehera95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunilbehera95" height="30" width="40" /></a>
+- 📧 Reach me on **sunil.6318ie@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
