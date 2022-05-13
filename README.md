@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sunil Behera</h1>
 <h3 align="center">A passionate Frontend Developer from India.</h3>
 
-<a align="center" href="https://app.daily.dev/lastseen404"><img src="https://api.daily.dev/devcards/384ecd3657f24d638fe1e382fdd8332d.png?r=8ah" width="400" alt="Sunil Behera's Dev Card"/></a>
+<p align="center">
+<a href="https://app.daily.dev/lastseen404"><img src="https://api.daily.dev/devcards/384ecd3657f24d638fe1e382fdd8332d.png?r=8ah" width="400" alt="Sunil Behera's Dev Card"/></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunildipun&label=Profile%20views&color=0e75b6&style=flat" alt="sunildipun" /> </p>
 
